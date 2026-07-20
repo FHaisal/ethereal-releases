@@ -1,8 +1,8 @@
 {
-  "version": "build-92",
-  "timestamp": "2026-06-30T05:38:14Z",
-  "client_hash": "1a1cd104549f9f8309169b69ce40291d2945e4922d1838c70b89e6038a2c576d",
-  "cache_hash": "a64be4eef17f16282974a977a7e4f5e16854e7a53777b1b3a3227956431ff216",
-  "client_url": "https://github.com/ethereal-rsps/releases/releases/download/build-92/client.jar",
-  "cache_url": "https://github.com/ethereal-rsps/releases/releases/download/build-92/cache.zip"
+  "version": "build-93",
+  "timestamp": "2026-07-20T19:38:00Z",
+  "client_hash": "78b09610a09ab468c514b685fdab39278c19363073c4830247eeb2dd17d63200",
+  "cache_hash": "258cfd49698bec6192e0240b1e66be054de0370d203cdcb14f6c2ce8045a438b",
+  "client_url": "https://github.com/ethereal-rsps/releases/releases/download/build-93/client.jar",
+  "cache_url": "https://github.com/ethereal-rsps/releases/releases/download/build-93/cache.zip"
 }
