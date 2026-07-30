@@ -3,6 +3,6 @@
   "timestamp": "2026-07-29T07:34:33Z",
   "client_hash": "b5434ef0028b1884ddc398d1d8541eb324bff70e60b13b53e6e4c9270bfae60b",
   "cache_hash": "c8a0d5a658cdc532f85711962005c9502418b7262e33ccae07b745bb80f21c12",
-  "client_url": "https://github.com/ethereal-rsps/releases/releases/download/build-99/client.jar",
-  "cache_url": "https://github.com/ethereal-rsps/releases/releases/download/build-99/cache.zip"
+  "client_url": "https://etherealps.com/downloads/client.jar",
+  "cache_url": "https://etherealps.com/downloads/cache.zip"
 }
