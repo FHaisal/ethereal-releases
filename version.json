@@ -1,10 +1,10 @@
 {
-  "version": "build-31",
-  "timestamp": "2026-09-01T08:29:00Z",
-  "client_hash": "66e7db51a94f0d87894e3a65929fc85aa96cc5702728860cdfefb5d302d500d8",
-  "cache_hash": "8f21dba6b32a90ce821f2bee2874fe66bf5c2164b25b1966201ed5abb2f5b94d",
+  "version": "build-32",
+  "timestamp": "2026-09-01T21:42:06Z",
+  "client_hash": "78fa1a7d9caf5722252a3003a320527e49f84459fdd444b2b14d91b664b958a6",
+  "cache_hash": "28a7f0749a3b09255fe90af0d32a91ed77d0b3d93d66185aa7c3d87bfc34fef0",
   "client_url": "https://etherealps.com/downloads/client.jar",
   "cache_url": "https://etherealps.com/downloads/cache.zip",
-  "client_url_fallback": "https://github.com/ethereal-rsps/releases/releases/download/build-31/client.jar",
-  "cache_url_fallback": "https://github.com/ethereal-rsps/releases/releases/download/build-31/cache.zip"
+  "client_url_fallback": "https://github.com/ethereal-rsps/releases/releases/download/build-32/client.jar",
+  "cache_url_fallback": "https://github.com/ethereal-rsps/releases/releases/download/build-32/cache.zip"
 }
